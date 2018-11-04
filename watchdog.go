@@ -1,5 +1,4 @@
-// Copyright 2018 XSY.
-// Author hd
+// Author me@bytejedi.com
 // 监控模块入口
 
 package watchdog
