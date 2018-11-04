@@ -8,8 +8,6 @@ import (
 	"runtime/pprof"
 	"runtime/trace"
 	"time"
-	"treasure/core/zlog"
-	"treasure/util"
 )
 
 var profiles struct {
